@@ -2,7 +2,7 @@
   <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="100">
 </p>
 
-# Bem vindo ao meu perfil
+# Hello, world!
 
 Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de ficar procurando coisas interessantes, veja esta lista com projetos relevantes e úteis.
 
