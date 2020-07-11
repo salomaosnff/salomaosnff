@@ -9,6 +9,6 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
 - 🎮 [Remake do Habbo Hotel](https://github.com/open-hotel)
 - 🔒 [Módulo OAuth2.0 para Flutter](https://github.com/salomaosnff/oauth_dio)
 - 💉 [Módulo Typescript para Injeção de Dependencias](https://github.com/open-hotel/injets)
-- 🎮 [Algorítimo A* em TypeScript](https://github.com/salomaosnff/A-Typescript)
+- 🎮 [Algorítimo A* em TypeScript](https://github.com/salomaosnff/A-Typescript) Veja a [demo](https://x4qqf.csb.app/)
 
 ✉️ Quer um contato mais próximo comigo? [Me chama no telegram!](https://t.me/salomaosnff)
