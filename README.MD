@@ -6,9 +6,6 @@
 
 Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de ficar procurando coisas interessantes, veja esta lista com projetos relevantes e úteis.
 
-- Resultados da pesquisa
-Resultados da Web
-
 - 💼 [Meu portifólio](http://salomaosnff.github.io/)
 - 🎮 [Remake do Habbo Hotel](https://github.com/open-hotel)
 - 🔒 [Módulo OAuth2.0 para Flutter](https://github.com/salomaosnff/oauth_dio)
