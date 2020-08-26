@@ -1,3 +1,5 @@
+![Salomao's github stats](https://github-readme-stats.vercel.app/api?username=salomaosnff&show_icons=true&theme=tokyonight)
+
 <h1>
   <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
   Hello, world!
