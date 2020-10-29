@@ -1,4 +1,5 @@
 ![Salomao's github stats](https://github-readme-stats.vercel.app/api?username=salomaosnff&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=salomaosnff)
 
 <h1>
   <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
