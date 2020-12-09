@@ -1,6 +1,3 @@
-![Salomao's github stats](https://github-readme-stats.vercel.app/api?username=salomaosnff&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=salomaosnff)
-
 <h1>
   <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
   Hello, world!
@@ -15,3 +12,6 @@ Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de fi
 - 🎮 [Algorítimo A* em TypeScript](https://github.com/salomaosnff/A-Typescript) Veja a [demo](https://x4qqf.csb.app/)
 
 ✉️ Quer um contato mais próximo comigo? [Me chama no telegram!](https://t.me/salomaosnff)
+
+![Salomao's github stats](https://github-readme-stats.vercel.app/api?username=salomaosnff&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=salomaosnff)
