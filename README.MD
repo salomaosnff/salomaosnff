@@ -6,6 +6,7 @@
 Aqui você pode encontrar muitas coisas aleatórias, então para te poupar de ficar procurando coisas interessantes, veja esta lista com projetos relevantes e úteis.
 
 - 💼 [Meu portifólio](http://salomaosnff.github.io/)
+- 🎵 [Pubby.club](https://pubby.club) Site para criar salas de vídeo de diversas plataformas.
 - 🎮 [Remake do Habbo Hotel](https://github.com/open-hotel)
 - 🔒 [Módulo OAuth2.0 para Flutter](https://github.com/salomaosnff/oauth_dio)
 - 💉 [Módulo Typescript para Injeção de Dependencias](https://github.com/open-hotel/injets)
