@@ -33,7 +33,7 @@ class Learning implements Skills {
 /**
  * @deprecated since version 2020
  */
-// class MobileSkills extends SoftwareDeveloper {
+// class MobileSkills implements Skills {
 //   technologies = ['Flutter', 'React Native'];
 // }
 ```
