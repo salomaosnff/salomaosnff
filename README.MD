@@ -4,7 +4,7 @@
 </h1>
 
 ```ts
-import SoftwareDeveloper from 'salomaosnff';
+import { SoftwareDeveloper, Skills } from 'salomaosnff';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Salomão Neto';
@@ -14,18 +14,18 @@ class Bio extends SoftwareDeveloper {
   studying = 'Bachelor of Computer Science | IFCE Campus Aracati'
 }
 
-class FrontEndSkills extends SoftwareDeveloper {
+class FrontEndSkills implements Skills {
   languages  = ['TypeScript', 'JavaScript', 'SASS'];
   frameworks = ['Vue 3', 'Vite', 'Nuxt.js', 'PIXI.js'];
 }
 
-class BackEndSkills extends SoftwareDeveloper {
+class BackEndSkills implements Skills {
   languages  = ['Node.js'];
   frameworks = ['Nest.js', 'express', 'socket.io'];
   databases  = ['PostgreSQL', 'MongoDB', 'ArangoDB'];
 }
 
-class Learning extends SoftwareDeveloper {
+class Learning implements Skills {
   languages     = ['Rust'];
   architectures = ['Clean Architeture', 'Domain Driven Design'];
 }
