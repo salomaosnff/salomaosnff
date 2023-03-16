@@ -25,7 +25,7 @@ class BackEndSkills implements Skills {
   databases  = ['PostgreSQL', 'MongoDB', 'ArangoDB'];
 }
 
-class Learning implements Skills {
+class LearningSkills implements Skills {
   languages     = ['Rust'];
   architectures = ['Clean Architeture', 'Domain Driven Design'];
 }
