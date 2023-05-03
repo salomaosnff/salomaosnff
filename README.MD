@@ -16,7 +16,7 @@ class Bio extends SoftwareDeveloper {
 
 class FrontEndSkills implements Skills {
   languages  = ['TypeScript', 'JavaScript', 'SASS'];
-  frameworks = ['Vue 3', 'Vite', 'Nuxt.js', 'PIXI.js'];
+  frameworks = ['Vue 3', 'Vite', 'Nuxt.js', 'PIXI.js', 'Three.js'];
 }
 
 class BackEndSkills implements Skills {
