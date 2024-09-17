@@ -30,12 +30,10 @@ class LearningSkills implements Skills {
   architectures = ['Clean Architeture', 'Domain Driven Design'];
 }
 
-/**
- * @deprecated since version 2020
- */
-// class MobileSkills implements Skills {
-//   technologies = ['Flutter', 'React Native'];
-// }
+
+class MobileSkills implements Skills {
+   technologies = ['Capacitor.js'];
+}
 ```
 
 ![Salomao's github stats](https://github-readme-stats.vercel.app/api?username=salomaosnff&show_icons=true&theme=tokyonight)
