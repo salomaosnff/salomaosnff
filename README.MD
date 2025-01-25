@@ -52,4 +52,6 @@ To save you time, I've made a list of some relevant projects.
 ✉️ [Telegram](https://t.me/salomaosnff)
 ✉️ [Instagram](https://instagram.com/sallon.dev)
 
-Contador de visitas: ![Counter](https://profile-counter.glitch.me/salomaosnff/count.svg)
+Visit counter:
+
+![Counter](https://profile-counter.glitch.me/salomaosnff/count.svg)
