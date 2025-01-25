@@ -36,10 +36,6 @@ class MobileSkills implements Skills {
 }
 ```
 
-![Salomao's github stats](https://github-readme-stats.vercel.app/api?username=salomaosnff&show_icons=true&theme=tokyonight)
-
-![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=salomaosnff)
-
 To save you time, I've made a list of some relevant projects.
 
 - 💼 [Portfolio](http://salomaosnff.github.io/) Some projects that I actively participated in the development
@@ -51,6 +47,9 @@ To save you time, I've made a list of some relevant projects.
 
 ✉️ [Telegram](https://t.me/salomaosnff)
 ✉️ [Instagram](https://instagram.com/sallon.dev)
+
+![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=salomaosnff)
+![Salomao's github stats](https://github-readme-stats.vercel.app/api?username=salomaosnff&show_icons=true&theme=tokyonight)
 
 Visit counter:
 
