@@ -9,7 +9,7 @@ import { SoftwareDeveloper, Skills } from 'salomaosnff';
 class Bio extends SoftwareDeveloper {
   name     = 'Salomão Neto';
   title    = 'Fullstack Engineer';
-  company  = null; // Hire me to have your company name here
+  company  = 'Fortics'
   location = 'Aracati, CE';
   studying = 'Bachelor of Computer Science | IFCE Campus Aracati'
 }
