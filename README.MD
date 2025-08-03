@@ -8,7 +8,7 @@ import { SoftwareDeveloper, Skills } from 'salomaosnff';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Salomão Neto';
-  title    = 'Fullstack Engineer';
+  title    = 'Senior Fullstack Engineer';
   company  = 'Fortics'
   location = 'Aracati, CE';
   studying = 'Bachelor of Computer Science | IFCE Campus Aracati'
