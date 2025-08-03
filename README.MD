@@ -42,7 +42,7 @@ To save you time, I've made a list of some relevant projects.
 - 🎵 [Pubby.club](https://pubby.club) Watch videos with friends
 - 🎮 [Open Hotel](https://github.com/open-hotel) Habbo Hotel Remake
 - 🔒 [OAuth DIO](https://github.com/salomaosnff/oauth_dio) OAuth2.0 integration for dio (Flutter)
-- 💉 [InjeTS](https://github.com/open-hotel/injets) Dependency Injection with Typescript
+- 💉 [Injets](https://github.com/salomaosnff/injets) Dependency Injection with Typescript
 - 🎮 [A* Pathfinder](https://github.com/salomaosnff/A-Typescript) Algorithm for finding paths implemented in Typescript [demo](https://x4qqf.csb.app/)
 
 ✉️ [Telegram](https://t.me/salomaosnff)
